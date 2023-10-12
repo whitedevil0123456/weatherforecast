@@ -1,0 +1,9 @@
+install rapid api extension in vs code
+
+create a acoount in rapidapi
+2) go to  bootstrap 
+and go to docs and copy boiler plate tempelate.
+change the heading 
+
+search for wheather by api ninja in rapid api
+ copy code from it. now create a web front page.
